@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GenericStackTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GenericStackTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/roberto/genericstack/GenericStackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="171">
+              <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,18 +34,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenericStack.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GenericStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/roberto/genericstack/GenericStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="213">
+              <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
                 <element signature="e#345#346#0" expanded="true" />
                 <element signature="e#380#381#0" expanded="true" />
                 <element signature="e#414#415#0" expanded="true" />
                 <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#747#748#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -427,8 +427,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/roberto/stack/test/GenericStackTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/roberto/genericstack/test/genericstack/test/GenericStackTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/roberto/genericstack/test/GenericStackTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/roberto/genericstack/GenericStackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/roberto/genericstack/GenericStack.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/roberto/genericstack/GenericStackTest.java" />
       </list>
     </option>
   </component>
@@ -671,23 +671,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524332000990</updated>
-      <workItem from="1524332006021" duration="10878000" />
+      <workItem from="1524332006021" duration="11387000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GenericStackTest - 2018.04.21 at 16h 44m 28s.xml">
-      <configuration name="GenericStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GenericStackTest - 2018.04.21 at 17h 49m 29s.xml">
-      <configuration name="GenericStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GenericStackTest - 2018.04.21 at 17h 49m 32s.xml">
-      <configuration name="GenericStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GenericStackTest - 2018.04.21 at 17h 57m 38s.xml">
-      <configuration name="GenericStackTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GenericStackTest - 2018.04.21 at 18h 03m 16s.xml">
       <configuration name="GenericStackTest" configurationId="JUnit" />
     </history-entry>
@@ -706,9 +694,21 @@
     <history-entry file="GenericStackTest - 2018.04.21 at 18h 24m 23s.xml">
       <configuration name="GenericStackTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GenericStackTest - 2018.04.21 at 18h 24m 35s.xml">
+      <configuration name="GenericStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenericStackTest - 2018.04.21 at 18h 25m 49s.xml">
+      <configuration name="GenericStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenericStackTest - 2018.04.21 at 18h 25m 57s.xml">
+      <configuration name="GenericStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenericStackTest - 2018.04.21 at 20h 20m 00s.xml">
+      <configuration name="GenericStackTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10878000" />
+    <option name="totallyTimeSpent" value="11387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -723,7 +723,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -780,27 +780,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/roberto/genericstack/GenericStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/roberto/genericstack/GenericStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="213">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
             <element signature="e#345#346#0" expanded="true" />
             <element signature="e#380#381#0" expanded="true" />
             <element signature="e#414#415#0" expanded="true" />
             <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/roberto/genericstack/GenericStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

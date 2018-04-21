@@ -24,7 +24,6 @@ public class GenericStack<T> {
             throw new StackOverflowError("O límite máximo de elementos foi atingido.");
 
         stack.push(elemento);
-        limiteElementos=+ 1;
     }
 
     public void pop() {
