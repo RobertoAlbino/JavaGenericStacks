@@ -1,21 +1,34 @@
 package com.roberto.genericstack;
 
 import java.util.LinkedList;
-import java.util.List;
 
 public class GenericStack<T> {
     private LinkedList<T> stack;
+    private long limiteElementos = 0;
 
-    public GenericStack() {
+    public GenericStack(long limiteElementos) {
         stack = new LinkedList<T>();
+        this.limiteElementos = limiteElementos;
     }
 
-    private int quantidadeElementos() {
+    public int quantidadeElementos() {
         return stack.size();
     }
 
     public Boolean estaVazia() {
         return quantidadeElementos() <= 0 ? true : false;
+    }
+
+    public void push(T elemento) {
+        if (quantidadeElementos() >= limiteElementos)
+            throw new StackOverflowError("O límite máximo de elementos foi atingido.");
+
+        stack.push(elemento);
+        limiteElementos=+ 1;
+    }
+
+    public void pop() {
+        stack.pop();
     }
 
 }
