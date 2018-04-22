@@ -27,7 +27,18 @@ public class GenericStack<T> {
     }
 
     public void pop() {
+        if (estaVazia())
+            throw new StackOverflowError("A pilha está vazia");
+
         stack.pop();
+    }
+
+    public T top() {
+        return stack.getFirst();
+    }
+
+    public T bot() {
+        return stack.getLast();
     }
 
 }
